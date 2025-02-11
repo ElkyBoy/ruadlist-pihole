@@ -3,7 +3,7 @@
 
 Данный блоклист позиционируется как более полный и проработанный аналог автоматически конвертированным блоклистам.
 
-Список составлен путём ручной правки [оригинального блоклиста](https://raw.githubusercontent.com/easylist/ruadlist/refs/heads/master/advblock/adservers.txt), с поправкой на результат автоматической конвертации скриптом от [anthonytwh](https://github.com/anthonytwh/pihole-blocklist-converter).
+Список составлен путём ручной правки [оригинального блоклиста для блокировщиков рекламы](https://raw.githubusercontent.com/easylist/ruadlist/refs/heads/master/advblock/adservers.txt), с поправкой на результат автоматической конвертации скриптом от [anthonytwh](https://github.com/anthonytwh/pihole-blocklist-converter).
 
 ## Добавление в Pi-Hole:
 Для добавления в Pi-Hole, в панели управления перейдите в _**Adlists**_ и вставьте в строку **Address:** ссылку на данный блоклист:
