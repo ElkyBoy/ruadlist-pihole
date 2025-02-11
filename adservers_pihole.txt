@@ -1,5 +1,7 @@
-.vnadsrv.com
-.igrid.org
+# Оригинал блоклиста: https://raw.githubusercontent.com/easylist/ruadlist/refs/heads/master/advblock/adservers.txt
+# Скрипт-конвертер, с результатом которого сравнивался текущий список, спасибо автору: https://github.com/anthonytwh/pihole-blocklist-converter
+# Для сравнения ручного и скриптового списков использовалась программа WinMerge, спасибо авторам: https://github.com/WinMerge/winmerge
+# Список подготовлен с использованием Notepad++, спасибо авторам: https://github.com/notepad-plus-plus/notepad-plus-plus
 10root25.website
 adlabs.ru
 adspayformymortgage.win
@@ -221,7 +223,6 @@ adiam.tech
 adjarabet.com
 adjs.ru
 adkraft.ru
-adlabs.ru
 adlabsnetworks.com
 adlabsretail.ru
 adlmerge.com
@@ -249,7 +250,7 @@ adprofits.ru
 adradle.life
 adram.media
 adreaction.ru
-adrek*.ru
+adrek.ru
 adretarget.net
 adrow.ru
 adrun.ru
@@ -348,7 +349,6 @@ aerontre.com
 aff.mediarotate.com
 affpros.net
 afishamedia.uz
-afishamedia.uz
 afojjm.com
 afrek.ru
 afrguard.space
@@ -405,16 +405,15 @@ alfadart.com
 alfasense.net
 alfasrv.com
 ali-bestshop.ru
-alibestru*.ru
 alibestru.ru
 alidtd.com
 aliexpress-internet.ru
 aliexpressforyou.ru
 aliexpresskupit.ru
 alifenix.ru
-aliru*.ru
+aliru.ru
 aliscaton.com
-alishop*.ru
+alishop.ru
 alitarget.ru
 alixil.ru
 all-cod.com
@@ -429,7 +428,7 @@ allroll.biz
 alltizer.ru
 allvideometrika.com
 almosto.com
-alshops*.ru
+alshops.ru
 alshp1.ru
 alshp2.ru
 alshp3.ru
@@ -437,7 +436,6 @@ alsmdb.com
 amacritus.com
 amads.xyz
 amazingcl.ru
-amgload.net
 amiok.org
 amperse.info
 amuseer.com
@@ -519,7 +517,7 @@ avmul.space
 avpris.ru
 awebanner.net
 aweets.com
-awesomeredirector*com
+awesomeredirector.com
 awhate.ru
 awsoop.ru
 axapte.ru
@@ -690,7 +688,7 @@ beeblebroks.ru
 beedbe8ebba.com
 beerboms.ru
 befouled-fire.com
-zvezdniyolimp.com
+beget.tech
 beglorena.com
 bek5qstfnr.club
 belhak.ru
@@ -747,7 +745,6 @@ bhhbgjcfajiccfabgba.ru
 bhiesfffga.com
 bhigieabgdbabegiibb.ru
 biasdo.com
-biberukalap.com
 bict.pro
 bid.run
 bidajet.info
@@ -845,12 +842,11 @@ bold-in.ru
 bombago.ru
 bombeers.ru
 bomentrima.xyz
-bondzgi*.tk
+bondzgi.tk
 bondzgi.cf
 bondzgi.ga
 bondzgi.gq
 bondzgi.ml
-bondzgi.tk
 bongacash.com
 bongobono.com
 bonusmne.com
@@ -890,7 +886,7 @@ brlxlpe8pmdgqv.ru
 brndrm.com
 bro2.biz
 broklam.com
-brolink*s.site
+brolinks.site
 bromusic1s.site
 bropush.site
 broredir1s.site
@@ -903,7 +899,7 @@ broredir7s.site
 broredir8s.site
 broredir9s.site
 broweb3s.site
-broworker*s.com
+broworkers.com
 browser-livetv.ru
 browser-onelike.ru
 browser-onlytv.ru
@@ -1211,7 +1207,6 @@ cmp.quantcast.com
 cms-skin.com
 cmsat.space
 cmsmodnews.com
-cnamerutor.ru
 cndmye.ru
 cndmyp.ru
 cndmyt.ru
@@ -1237,11 +1232,9 @@ coe5n.ru
 coin-have.com
 coin-hive.com
 3dzone.link
-cnhv.co
 coin-service.com
 coinerra.com
-btc-miner.online
-cnhv.co
+coinhive.com
 coinmakler.ru
 coinnebula.com
 coixan.com
@@ -1492,6 +1485,7 @@ defiru.com
 defundium.com
 delikatsov.com
 delivery.promo.ge
+delivery.vidible.tv
 delmlk.com
 delo-teh.ru
 delta.mediafort.ru
@@ -1659,7 +1653,6 @@ dqwlii.com
 dqwzhseasq.com
 dqzuy.com
 dragpro.ru
-dreadfula.ru
 dreampartners.ru
 dreimer.ru
 dreti.ru
@@ -1871,7 +1864,8 @@ erefya.com
 erileni.ru
 ernozi.ru
 ernser.org
-ero.ru,domain~vpets.ru
+ero.ru
+vpets.ru
 eroticahd.org
 eroticxx.ru
 erpito.ru
@@ -2222,7 +2216,7 @@ gainnet.ru
 gakk.ru
 gakogedifoda.ru
 galdarael.com
-galinapogorelov*.ru
+galinapogorelov.ru
 gamaads.com
 gamacp.pro
 game-rust.ru.
@@ -2230,6 +2224,7 @@ game-rust.ru
 game-tester.ru
 gameadnet.ru
 gameak.ru
+gamedl.ru
 gameleads.ru
 gameorakul.ru
 gamerickius.com
@@ -2373,7 +2368,6 @@ go2of.com
 go7media.ru
 goabd.ru
 goallead.ru
-gocdn.ru
 goclass.ru
 godsave.lgbt
 gogetlinks.net
@@ -2632,7 +2626,6 @@ hrijqd.com
 hromasoma.com
 hsgdyq.com
 hstraffa.com
-https//diradvert.ru
 hubll.com
 hudasion.com
 huel.biz
@@ -2812,7 +2805,6 @@ infoblog.site
 infoboom.life
 infocelebrit.ru
 infoguardru.info
-infomir.pw
 infomix.best
 infomovie.ru
 informer.link
@@ -2832,7 +2824,8 @@ inmedias.biz
 inmeund.ru
 innoapi.info
 inpiza.com
-inplayer.ru,domain~sova.live
+inplayer.ru
+sova.live
 inppfinder.info
 inpptouch.info
 inrd.ru
@@ -2899,7 +2892,7 @@ itakhin.ru
 itdzv.top
 ithoahie.com
 itisanime.ru
-itpodol.ru,popup
+itpodol.ru
 itrigra.ru
 itsurta.ru
 itunestore.ru
@@ -2911,7 +2904,6 @@ ivancept.com
 ivances.com
 ivanie.com
 ivantat.com
-ivi.ru
 ivjswq.com
 ivnsssc.pro
 ivsiveg.ru
@@ -2966,9 +2958,6 @@ jekson44.ru
 jelfmtsr5i.ru
 jerwested.info
 jetswap.net
-jetgo.ru
-jetswap.com
-regjet.ru
 jeu5utxlo.tech
 jewnsk.pro
 jewongilum.com
@@ -3189,8 +3178,6 @@ kinopromobase2.ru
 kinoshka-ru.ru
 kinostream.media
 kinosup.icu
-kinott.com
-kinott.ru
 kinozz.in
 kinozz.pro
 kinozznet.com
@@ -3208,7 +3195,6 @@ kisshentai.net
 kistured.com
 kit5hgver.com
 kitopr.com
-kitri*.tk
 kitri.tk
 kiworeequnasaw.info
 kjaay.com
@@ -3240,7 +3226,6 @@ koliser.com
 kolites.com
 kolitter.com
 koluty.com
-kombost*.tk
 kombost.tk
 konopelski.biz
 konsterst.mobi
@@ -3282,7 +3267,6 @@ kurberi.ru
 kuretr.ru
 kuseless.ru
 kutabi.info
-kuveres.com
 kvcd7w375h.ru
 kvihit.com
 kvvadrat.net
@@ -3384,7 +3368,6 @@ lentouch.info
 leofur.ru
 leokross.com
 leplena.ru
-lepubs.com
 lequ6.ru
 lerester.com
 lerrex.ru
@@ -4001,7 +3984,7 @@ mycheckergeo.com
 myconst.net
 mycpacash.ru
 mycpm.ru
-mydomainab*.space
+mydomainab.space
 myextstat.ru
 myfishsoup.com
 myfreegamez.com
@@ -4187,7 +4170,6 @@ nhivb7sjnyn1.ru
 nhotewi.ru
 nhqqv.space
 nhqwt.space
-nickhel.com
 nideqoa.ru
 nidjxulb.ru
 nighkclick.biz
@@ -4326,14 +4308,12 @@ ochze.com
 octclck.xyz
 octo25.me
 octobird.com
-octoclick.net
 octomarket.com
 octonew.me
 octonewjs.com
 octopus16.net
 octorte.ru
 octotracking.com
-octozoon.org
 ocxtfq.com
 oczkgx.com
 od3ai.ru
@@ -4554,7 +4534,7 @@ parametr01.ru
 parandeya.com
 parents1.ru
 parhadat.com
-parkdomainreal*.site
+parkdomainreal.site
 parkdomen.online
 parrylac.ru
 parthenophobia.me
@@ -4726,7 +4706,7 @@ poymiteetobespolezno.ru
 poyva.com
 ppmcdv.com
 ppoi.org
-ppvlj.com$~third-party
+ppvlj.com
 ppvmvewssqer.mobi
 ppwaat.com
 ppytyk5t.ru
@@ -5022,7 +5002,6 @@ rbtds.net
 rbzyi.com
 rc7pf.ru
 rcacase.ru
-rcdn.pro
 rcqzgq.com
 rcvgoods.com
 rd01eqxpnv.space
@@ -5043,7 +5022,6 @@ realmon.ru
 realnetwrk.com
 realpush.digital
 realpush.network
-realtraf.
 realtraf3.ru
 realtraf9.ru
 reashr.com
@@ -5056,7 +5034,6 @@ reclame.io
 recordsbluemountain.com
 recreativ.com.ua
 recreativ.com
-recreativ.ru
 recrinsit.ru
 recwy.com
 redarianman.com
@@ -5090,7 +5067,6 @@ regeef.site
 region-media.su
 regisg.com
 regiskin.ru
-regpole.com
 reguliruyka.ru
 reidancis.com
 reingod.com
@@ -5114,7 +5090,6 @@ relap.io
 sntch.com
 tut.by
 ustaliy.ru
-.relap.io
 dynamo.kiev.ua
 fitseven.ru
 inmyroom.ru
@@ -5237,8 +5212,6 @@ rontar.ru
 roofsing.com
 rootclick.biz
 rootinmyhead.ru
-rootmedia.cc
-rootmedia.ws
 rootspace.biz
 ropandhep.com
 ropedri.com
@@ -5326,8 +5299,6 @@ rutad.ru
 rutarget.ru
 rutorad.ru
 rutorads.com
-ruttwind.com
-rutvind.com
 rutyago.ru
 ruunews.info
 rvktu.com
@@ -5383,7 +5354,6 @@ saferedirrect.com
 safesource.ru
 safevideo.cc
 saftraf.com
-salamaleyum.com
 salesdoubler.pro
 saltedslimes.com
 salutbook.ru
@@ -5557,7 +5527,6 @@ sjsmartcontent.ru
 skawto.ru
 skcrtxr.com
 skidka50.net
-skidl.ru
 skiles.link
 skwstat.ru
 skyad1.ru
@@ -5765,7 +5734,7 @@ stteeruptowind.com
 stumtererum.com
 styleload.ru
 su2lgyoeucscn.ru
-subnewss*.net
+subnewss.net
 substraktor.ru
 subsworker.bid
 subxpk.com
@@ -6108,7 +6077,7 @@ tojinr.com
 toldundevent.com
 tolicando.com
 tolko1dogovor.com
-.tolkunov.com
+tolkunov.com
 tomi.ai
 tomi.net.ru
 tomillion.ru
@@ -6268,7 +6237,6 @@ tsunam.ru
 tsystatic.com
 tsytomer.ru
 tta3w6e98cka.ru
-ttarget.ru
 ttclkl.com
 tteasr.com
 ttfean.com
@@ -6460,7 +6428,6 @@ varinitconfique.ru
 various1down.biz
 varroterius.com
 varsloqt.name
-vast*.videocdn.tv
 vast.6550.tech
 vast.bazonserver.site
 vast.videocdn.tv
@@ -6752,8 +6719,6 @@ weaveworldtv.ru
 web-games.biz
 web-rotation.net
 web-rotator.net
-webadvert-gid.ru
-webadvertgid.ru
 webkinq.ru
 weblion777.github.io
 webmastak.net
@@ -7003,7 +6968,6 @@ xwell.ru
 xwjwdjhb3a.space
 xxf65z4o6a.club
 xxslu.space
-xxuhter.ru
 xxuz.com
 xxyolk.com
 xyapj.com
@@ -7145,7 +7109,6 @@ zachaga.ru
 zachemtimeniazabanil.ru
 zaeavr.com
 zamaraika.ru
-zambara*.tk
 zambara.tk
 zamiko.ru
 zanena.ru
@@ -7171,8 +7134,8 @@ zclick.biz
 zclpro-clk.com
 zclpro.com
 zcmxa.com
-zcode1*.com
-zcode1*.me
+zcode1.com
+zcode1.me
 zcode5.me
 zcode6.me
 zcrqsfq.biz
@@ -7311,12 +7274,11 @@ _vodkov.net
 extract.zz.mu
 getout.besaba.com
 kipfilms.ru
-
+#people-group
 people-group.eu
 people-group.su
 the-people-group.com
 the-people-group.fo.ru
-
 #popunder.clients
 ad.minecraft-mods.ru
 adr.alltorrents.net
@@ -7345,7 +7307,6 @@ wells.murmann.ru
 wolf.fan-guf.ru
 www.online.anime-box.ws
 yaload.yaload.ru
-
 #popunder.clients.indirect-or-unused
 1.miniporn.ru
 fair.huz84.com
@@ -7363,14 +7324,14 @@ search.a-vega.ru
 sport.hudaem.ru
 top.softweb.ru
 zork.jerkngo.com
-
 #tizermedia.clients
 nord.murmann.ru
 webweb.picforall.ru
-
 #Wizard-TraffStock.clients
 wt.lovfot.ru
-
+#Легальные CDN, часто использующиеся для спама и вирусов
+ccdnss.com
+cdnsfree.com
 #TeaserNET.com и подобные сети
 0bb.ru
 1bb.ru
@@ -7400,7 +7361,6 @@ funbb.ru
 goodbb.ru
 goodboard.ru
 icebb.ru
-igraemroli.ru
 koti-voiteli.ru
 magicbb.ru
 magicrpg.ru
@@ -7431,7 +7391,6 @@ userforum.ru
 volshebniy.ru
 webtalk.ru
 witchforum.ru
-
 babestar.ru
 bestcamsxxx.com
 exoticvideo.net
@@ -7479,7 +7438,6 @@ wifilm.ru
 x-zona.org
 xxlbunny.com
 xxx-russian.ru
-
 #Блокировка имён отдельных сайтов в адресах запросов рекламных скриптов (в основном popunder)
 -image2you.ru
 anime-box.ws
@@ -7492,8 +7450,6 @@ hottrash.ru
 payforpic.ru
 picforall.ru
 rustorka.com
-payforpic.ru
-picforall.ru
 pick.megatrack.org
 picmani.ru
 pix-x.net
@@ -7505,7 +7461,6 @@ santikov.net
 torrent-telik.
 videotuts.ru
 x-uboino.net
-
 1xbet.by
 1xbet.com
 1xbet.com.gh
@@ -7515,7 +7470,6 @@ x-uboino.net
 betwinner.com
 fan-sport.com
 ua-1x-bet.com
-
 #Сайты-фейки и мошенники
 .24smi.host
 .24smi.in
