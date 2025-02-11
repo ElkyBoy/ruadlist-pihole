@@ -1,4 +1,4 @@
-# ruadlist-pihole
+# RU AdList для Pi-Hole
 Вручную дорабатываемый и обновляемый список рекламных серверов из RU AdList для Pi-Hole.
 
-Оригинал RU AdList: https://forums.lanik.us/viewforum.php?f=102
+Оригинальный репозиторий RU AdList: https://github.com/easylist/ruadlist
